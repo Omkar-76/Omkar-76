@@ -1,5 +1,7 @@
 ### Hi 👋, I'm Omkar Bangar
 
+- Truly passionate about learning new technologies and hope to contribute significantly in this field in the future
+
 
 - 🔭 I’m currently working on Frontend Development.
 - 🌱 I’m currently learning MERN Stack
