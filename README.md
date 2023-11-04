@@ -9,5 +9,5 @@
 - 📫 How to reach me: bangaromkar76@gmail.com
 - ⚡ In my free time, I love to play Chess. I am one of chess enthusiasts Player in India.
 
-- [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,figma&theme=light)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
 
