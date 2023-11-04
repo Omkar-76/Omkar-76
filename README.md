@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Omkar Bangar
 
 <!--
 **Omkar-76/Omkar-76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
